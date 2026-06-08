@@ -265,3 +265,7 @@ python UAVidToolKit/writeImageLabelPathPairsToTxtFile.py \
 
 Bug reports and feature suggestions are welcome. Please open an issue on the [GitHub issue tracker](https://github.com/dronefreak/UAVidToolKit/issues) with a clear description and, where applicable, a minimal reproducible example.
 
+For guidance on setting up a development environment, coding standards, and the pull-request process, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+To report a security vulnerability privately, follow the process described in [SECURITY.md](SECURITY.md).
+
